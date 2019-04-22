@@ -3,4 +3,4 @@ This repository cointaints code from Skin Cancer imaging sensor
 
 
 Sample heatmap from sensor data, 
-<img align="left" src="https://github.com/debjyotiC/AD5933-MEMS-Cancer-Sensor/blob/master/images/Cancerous.jpg" width="200">
+<img align="left" src="https://github.com/debjyotiC/skin-cancer-detector/blob/master/Figure_1.png" width="200">
